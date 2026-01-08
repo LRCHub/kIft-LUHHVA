@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "エスプレッソ",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2026-01-08T06:51:46.955123Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Espresso_Sabrina_Carpenter.txt"
+    }
+  ]
+}
